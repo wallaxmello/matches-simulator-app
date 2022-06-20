@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285483179336",
+    "project_id": "simulator-partidas-de-futebol",
+    "storage_bucket": "simulator-partidas-de-futebol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285483179336:android:6bb7e743c8f4c9d172e77d",
+        "android_client_info": {
+          "package_name": "com.example.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285483179336-l15nprnosaarqvrhe90uhho42vebtutl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMswj0vd5XhDg3ip4i5OfXkl-yk5TGXjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285483179336-l15nprnosaarqvrhe90uhho42vebtutl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
